@@ -1,0 +1,15 @@
+E:\geek\sharp\programming-languages\example001\bin\Debug\net7.0\example001.exe
+E:\geek\sharp\programming-languages\example001\bin\Debug\net7.0\example001.deps.json
+E:\geek\sharp\programming-languages\example001\bin\Debug\net7.0\example001.runtimeconfig.json
+E:\geek\sharp\programming-languages\example001\bin\Debug\net7.0\example001.dll
+E:\geek\sharp\programming-languages\example001\bin\Debug\net7.0\example001.pdb
+E:\geek\sharp\programming-languages\example001\obj\Debug\net7.0\example001.csproj.AssemblyReference.cache
+E:\geek\sharp\programming-languages\example001\obj\Debug\net7.0\example001.GeneratedMSBuildEditorConfig.editorconfig
+E:\geek\sharp\programming-languages\example001\obj\Debug\net7.0\example001.AssemblyInfoInputs.cache
+E:\geek\sharp\programming-languages\example001\obj\Debug\net7.0\example001.AssemblyInfo.cs
+E:\geek\sharp\programming-languages\example001\obj\Debug\net7.0\example001.csproj.CoreCompileInputs.cache
+E:\geek\sharp\programming-languages\example001\obj\Debug\net7.0\example001.dll
+E:\geek\sharp\programming-languages\example001\obj\Debug\net7.0\refint\example001.dll
+E:\geek\sharp\programming-languages\example001\obj\Debug\net7.0\example001.pdb
+E:\geek\sharp\programming-languages\example001\obj\Debug\net7.0\example001.genruntimeconfig.cache
+E:\geek\sharp\programming-languages\example001\obj\Debug\net7.0\ref\example001.dll
